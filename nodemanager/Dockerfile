@@ -1,4 +1,4 @@
-FROM bde2020/hadoop-base
+FROM hadoop-base
 
 MAINTAINER Ivan Ermilov <ivan.s.ermilov@gmail.com>
 
